@@ -12,14 +12,6 @@
 - 🤖 Continuously learning and exploring new areas in AI
 - 📫 Reach me at: ianpadovani97@gmail.com
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ianpadovani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpadovani&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true"/>
-  </a>
-</div>
-
 ## 🛠️ My Tech Stack
 
 ### 👨‍💻 Languages
@@ -46,14 +38,6 @@
 ### 🖥️ Other
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ianpadovani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ## 📱 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/ianpadovani)
